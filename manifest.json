@@ -1,0 +1,8 @@
+{
+    "icon": "https://qcingenieros.com/wp-content/uploads/2020/06/Icon.png",
+    "title": "QC Ingenieros",
+    "url": "https://plw-app-clients.s3.amazonaws.com/test-pluggins-trimble/index.html",
+    "description": "Plugins personalizados de QC Ingenieros",
+    "configCommand": "do_config",
+    "enabled": true
+  }

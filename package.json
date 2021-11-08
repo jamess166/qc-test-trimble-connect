@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "three": "^0.132.2",
+    "trimble-connect-project-workspace-api": "^0.1.2",
     "workspace-api": "^1.1.2"
   },
   "devDependencies": {
